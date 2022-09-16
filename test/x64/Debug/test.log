@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\proga\for_c\test\test.cpp(18,38): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+C:\proga\for_c\test\test.cpp(19,38): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+  test.vcxproj -> C:\proga\for_c\test\x64\Debug\test.exe
